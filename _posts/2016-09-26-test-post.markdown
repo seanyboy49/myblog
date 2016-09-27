@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Test Post!"
+date:   2016-09-26 14:53:08 -0700
+categories: jekyll test post
+---
+Today, I did some sprint training, based off some advice from [Max Bigras][max-bigras]. 
+
+According to the cursory internet research I did this morning, sprint training is great for torching fat and building muscle. Compared with other exercises, it has a pretty returns on calorie burning and muscle building to time invested. According to [breaking muscle][breaking-muscle], "sprints burn 200 calories for 2.5 minutes of work." Compare that to 40 minutes running on the [treadmill] [treadmill], in which the average person burns between 486 and 557 calories. 
+
+Clearly, sprinting has its advantages. 
+
+If you'd like to get started with some basic sprint exercises, I'd recommend [this video][this-video].
+
+[max-bigras]: https://github.com/mbigras
+[breaking-muscle]: https://breakingmuscle.com/strength-conditioning/science-says-sprints-burn-200-calories-for-25-minutes-work
+[treadmill]: http://www.livestrong.com/article/514587-can-you-lose-weght-working-out-40-minutes-on-the-treadmill/
+[this-video]: https://www.youtube.com/watch?v=AvqZvnFr630
